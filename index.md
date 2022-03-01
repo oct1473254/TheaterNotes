@@ -17,24 +17,25 @@ Five shots or takes, each one a maximum of fifteen seconds long, separated by bl
 - Think about staging an *expresssion* or  than a description. An expression is what it feels like through a subjective lens. A description is an attempt to be as objective as possible.
 
 Parameters:
-- Meet partner in the breakout room. Storyboard for 2 minutes. Break out room to work in for 10 minutes.
-- Video on / off or call out "lights up / lights down" : 
+- Meet partner in the breakout room. Storyboard for 2 minutes. Break out room to work in for 10 minutes. Then we will return to the main room and watch each other's performances. 
+- Directors should work with actors to use the Video on / off function or call out "lights up / lights down" : 
 
 ## Advice for Working Together
-- Work physically. Do not waste time describing the psychology or meaning of the incident to the actors. Instead, speak with brevity and give physical instructions, such as: "Enter through the door quickly, take five steps, look to the right, exhale, look back slowly while drawing out the word, 'Fire!' in a whisper," Direct from a physical rather than a psychological point of view. 
+- Work physically. Do not waste time describing the psychology or meaning of the incident to the actors. Instead, speak with brevity and give physical instructions, such as: "Enter through the door quickly, take five steps, look to the right, exhale, look back slowly" Direct from a physical rather than a psychological point of view. 
 
 - Take responsibility for the actor. Work with care, kindness, and precision. Take care of the actor's safety and wellbeing.
-- Take responsibility for the audience. Do not assume that the audience will know what to do, or what will happen next. Be sensitive to the audience's mood, and take responsibility for the audience's experience of time and duration during the composition. Make sure that the blackouts are not too long. 
+- Take responsibility for the audience. Do not assume that the audience will know what to do, or what will happen next. Be sensitive to the audience's mood, and take care of the audience's experience of time and duration during the composition. Make sure that the blackouts are not too long. 
 
 
 
-## Composition Exercise:
+## Exercise Two: The Metonymy Composition:
 
-This is exercise is based off Anne Bogart's composition exercise. Each pair will direct the other in a solo performance. So you will each have an opportunity to be a performer and a director. 
+ Each pair will direct the other in a solo performance, that you will have all of Wednesday to meet and rehearse. You will each have an opportunity to be a performer and a director. 
 
 #### Project Parameters 
 - Minimum of 4 minutes, Maximum of 7 minutes. 
-(All compositions must include all elements, in no particular order):
+(All compositions must include all of the following elements, in no particular order):
+- A performance with a beginning/middle and end.
 - a repeated phrase, gesture or motif
 - a brilliant use of metonymy
 - One piece of music with no lyrics
@@ -55,3 +56,13 @@ This is exercise is based off Anne Bogart's composition exercise. Each pair will
 
 #### This Zoom room is always open, along with breakout rooms. Please schedule a time to meet with your partner and rehearse. The performances should be repeatable and well-rehearsed. 
 - Partners should take care of themselves and each other. Don't do anything unsafe. Don't lose sleep over this assignment, or make unreasonable demands of your partner or yourself. 
+##### Suggested Process: 
+- Exchange contact information with your partner, and select a time to meet and rehearse. 
+- take some time to think about the assignment. Doodle. Find images or text. Then think about the room, the camera, and the ingredient list.
+- Eat a meal or take a nap.
+- make an outline. Draw some storyboards. Let your mind wander. Ask yourelf: "What is important?" 
+- Rehearse with your partner. Divide the time evenly. 
+- Do your best when you are an actor. Take notes, and be helpful.
+
+### Difficulties, questions or problems? 
+email me: michael.rau @ stanford.edu
