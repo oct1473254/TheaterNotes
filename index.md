@@ -35,9 +35,10 @@ This is exercise is based off Anne Bogart's composition exercise. Each pair will
 - 
 
 ### Suggested Structure of events: Loss / reunion
--The Encounter
--Loss
--Something happens
--reunion
+- The Encounter
+- Loss
+- Something happens
+- reunion
 
-This Zoom room is always open, along with breakout rooms.
+#### This Zoom room is always open, along with breakout rooms. Please schedule a time to meet with your partner and rehearse. The performances should be repeatable and well-rehearsed. 
+- Partners should take care of themselves and each other. Don't do anything unsafe. Don't lose sleep over this assignment, or make unreasonable demands of your partner or yourself. 
