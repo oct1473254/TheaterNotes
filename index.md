@@ -20,7 +20,7 @@ Parameters:
 - Meet partner in the breakout room. Storyboard for 2 minutes. Break out room to work in for 10 minutes.
 - Video on / off or call out "lights up / lights down" : 
 
-## Advice for Work Together
+## Advice for Working Together
 - Work physically. Do not waste time describing the psychology or meaning of the incident to the actors. Instead, speak with brevity and give physical instructions, such as: "Enter through the door quickly, take five steps, look to the right, exhale, look back slowly while drawing out the word, 'Fire!' in a whisper," Direct from a physical rather than a psychological point of view. 
 
 - Take responsibility for the actor. Work with care, kindness, and precision. Take care of the actor's safety and wellbeing.
