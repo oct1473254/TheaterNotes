@@ -1,8 +1,6 @@
 
 # Stanford PhD Creative Workshop
 
-
-
 ## Introductory Exercise:
 
 Montage is a way of putting images together that incorporates juxtaposition, contrast, rhythm and story. It creates a through-line by assembling, overlaying and overlapping different materials collected from different sources.
@@ -10,8 +8,8 @@ The theater can use these techniques by substituting physical movement for camer
 
 #### Exercise 1: Working with a partner in a breakout room, create a Montage of 5 different images that convey a story.
 Five shots or takes, each one a maximum of fifteen seconds long, separated by blackouts, during which those in the audience close their eyes. The director can say, for example, "Lights out," and the audience members will close their eyes, and, "Lights up," and the audience members will open their eyes.
-- 5 images that use the frame of Zoom as a proscenium theater
 - Think about the 5 images that create a story through juxtaposition. Think about a beginning middle and end. 
+- Create 5 images that use the frame of Zoom as a proscenium theater
 - No spoken text
 - Consider how you can use the space, the light, the framing of the camera.
 - Think about staging an *expresssion* or  than a description. An expression is what it feels like through a subjective lens. A description is an attempt to be as objective as possible.
@@ -30,10 +28,13 @@ Parameters:
 
 ## Exercise Two: The Metonymy Composition:
 
- Each pair will direct the other in a solo performance, that you will have all of Wednesday to meet and rehearse. You will each have an opportunity to be a performer and a director. 
+ Each pair will direct the other in a solo performance, that you will have all of Wednesday to meet and rehearse. You will each have an opportunity to be a performer and a director. Each performance must be minimum of 4 minutes in runtime, Maximum of 7 minutes runtime.
+
 
 #### Project Parameters 
-- Minimum of 4 minutes, Maximum of 7 minutes. 
+
+
+
 (All compositions must include all of the following elements, in no particular order):
 - A performance with a beginning/middle and end.
 - a repeated phrase, gesture or motif
@@ -48,7 +49,7 @@ Parameters:
 - No more than a paragraph of text, with the suggestion that the less text the better.
 - 
 
-### Suggested Structure of events: Loss / reunion
+#### Suggested Structure of events: Loss / reunion
 - The Encounter
 - Loss
 - Something happens
