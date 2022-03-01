@@ -24,7 +24,7 @@ Parameters:
 - Take responsibility for the actor. Work with care, kindness, and precision. Take care of the actor's safety and wellbeing.
 - Take responsibility for the audience. Do not assume that the audience will know what to do, or what will happen next. Be sensitive to the audience's mood, and take care of the audience's experience of time and duration during the composition. Make sure that the blackouts are not too long. 
 
-
+---
 
 ## Exercise Two: The Metonymy Composition:
 
