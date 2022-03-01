@@ -4,14 +4,16 @@
 
 
 ## Introductory Exercise:
-Montage is a way of putting images together that incorporates juxtaposition, contrast, rhythm and story. It creates a through-line by assembling, overlaying and overlapping different materials collected from different sources.
-The theater can use these techniques, substituting physical movement for camera movement and editing. How can you create a close-up or pan or jump-cut without the use of a camera? How can you put together disparate materials into a whole, using the techniques of montage? 
-Montage of 3 different images that silently convey a story.
 
-- 3 images that use the frame of Zoom as a proscenium
-- Think about the 3 images that create a story through juxtaposition. Think about a beginning middle and end. 
+Montage is a way of putting images together that incorporates juxtaposition, contrast, rhythm and story. It creates a through-line by assembling, overlaying and overlapping different materials collected from different sources.
+The theater can use these techniques by substituting physical movement for camera movement and editing. How can you create a close-up or pan or jump-cut without the use of a camera? How can you put together disparate materials into a whole, using the techniques of montage? 
+
+#### Exercise 1: Create a Montage of 5 different images that silently convey a story.
+Five shots or takes, each one a maximum of fifteen seconds long, separated by blackouts, during which those in the audience close their eyes. The director can say, for example, "Lights out," and the audience members will close their eyes, and, "Lights up," and the audience members will open their eyes.
+- 5 images that use the frame of Zoom as a proscenium theater
+- Think about the 5 images that create a story through juxtaposition. Think about a beginning middle and end. 
 - Meet partner in the breakout room. Storyboard for 2 minutes. Break out room to work in for 10 minutes.
-- Video on / off or call out "lights up / lights down" 
+- Video on / off or call out "lights up / lights down" : 
 
 
 
@@ -19,16 +21,15 @@ Montage of 3 different images that silently convey a story.
 
 This is exercise is based off Anne Bogart's composition exercise. Each pair will direct the other in a solo performance. So you will each have an opportunity to be a performer and a director. 
 
-
+#### Project Parameters (All compositions must include all elements, in no particular order):
 - Minimum of 4 minutes, Maximum of 7 minutes
-- Using the other person as a performer. 
-- A surprise
-- One piece of music 
-- a brilliant use of metonymy
+- - a brilliant use of metonymy
+- One piece of music with no lyrics
 - A dramatic contrast in lighting
-- depth or perspective using the Zoom camera
+- a well excetued use of depth or perspective using the Zoom camera
 - a broken expectation
 - A revelation of space, character or object
+- a hilarious or extraordinary moment of dance
 - a conscious use of color
 - No more than a paragraph of text, with the suggestion that the less text the better.
 - 
