@@ -12,7 +12,7 @@ Five shots or takes, each one a maximum of fifteen seconds long, separated by bl
 - Create 5 images that use the frame of Zoom as a proscenium theater
 - No spoken text
 - Consider how you can use the space, the light, the framing of the camera.
-- Think about staging an *expresssion* or  than a description. An expression is what it feels like through a subjective lens. A description is an attempt to be as objective as possible.
+- Think about staging an *expression* or  than a description. An expression is what it feels like through a subjective lens. A description is an attempt to be as objective as possible.
 
 Parameters:
 - Meet partner in the breakout room. Storyboard for 2 minutes. Break out room to work in for 10 minutes. Then we will return to the main room and watch each other's performances. 
@@ -41,7 +41,7 @@ Parameters:
 - a brilliant use of metonymy
 - One piece of music with no lyrics
 - A dramatic contrast in lighting
-- a well excetued use of depth or perspective using the Zoom camera
+- a well executed use of depth or perspective using the Zoom camera
 - a broken expectation
 - A revelation of space, character or object
 - a hilarious or extraordinary moment of dance
@@ -61,7 +61,7 @@ Parameters:
 - Exchange contact information with your partner, and select a time to meet and rehearse. 
 - take some time to think about the assignment. Doodle. Find images or text. Then think about the room, the camera, and the ingredient list.
 - Eat a meal or take a nap.
-- make an outline. Draw some storyboards. Let your mind wander. Ask yourelf: "What is important?" 
+- make an outline. Draw some storyboards. Let your mind wander. Ask yourself: "What is important?" 
 - Rehearse with your partner. Divide the time evenly. 
 - Do your best when you are an actor. Take notes, and be helpful.
 
